@@ -40,3 +40,17 @@ This project evaluates the performance of multiple Large Language Models (LLMs) 
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy openai google-generativeai groq
+```
+---
+### ✅  3. Baseline Evaluation
+- Run : RQ123.ipynb
+✔ Queries all models using standard prompts
+✔ Stores responses:
+-gpt_response
+-gemini_response
+-groq_response
+
+✔ Computes:
+-Accuracy
+-Wrong answers
+-Error metrics
