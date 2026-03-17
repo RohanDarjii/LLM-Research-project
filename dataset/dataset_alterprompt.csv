@@ -1,0 +1,176 @@
+question_id,discipline,question_type,difficulty_level,question_text,option_A,option_B,option_C,option_D,correct_answer,GPT Response,Gemini Response,Grok Response
+CS_MCQ_01,Computer Science,MCQ,Easy,Which of the following best describes data structure is best suited for implementing a priority queue?,Stack,Queue,Heap,Linked List,C,C,C,C
+CS_MCQ_02,Computer Science,MCQ,Easy,Choose the correct description of is the worst-case time complexity of binary search.,O(1),O(log n),O(n),O(n log n),B,B,B,B
+CS_MCQ_03,Computer Science,MCQ,Easy,What is the correct explanation for protocol is used to secure HTTP communication?,FTP,SMTP,HTTPS,SNMP,C,C,C,C
+CS_MCQ_04,Computer Science,MCQ,Easy,Choose the correct description of does CPU stand for.,Central Processing Unit,Computer Processing Unit,Central Program Unit,Control Processing Unit,A,A,A,A
+CS_MCQ_05,Computer Science,MCQ,Easy,What is the correct explanation for component stores the BIOS?,RAM,CPU,ROM,Cache,C,C,C,C
+CS_MCQ_06,Computer Science,MCQ,Medium,What is the correct explanation for scheduling algorithm may lead to starvation?,Round Robin,First Come First Serve,Shortest Job First,FIFO,C,C,C,C
+CS_MCQ_07,Computer Science,MCQ,Medium,Which of the following best describes of the following best describes polymorphism?,Data hiding,Multiple inheritance,Ability of an object to take many forms,Code compilation,C,C,C,C
+CS_MCQ_08,Computer Science,MCQ,Medium,Choose the correct description of is normalization used in databases.,Increase redundancy,Reduce redundancy,Improve security,Increase performance,B,B,B,B
+CS_MCQ_09,Computer Science,MCQ,Medium,What is the correct explanation for is the main purpose of an operating system?,Compile programs,Manage hardware resources,Store data permanently,Execute arithmetic operations,B,B,B,B
+CS_MCQ_10,Computer Science,MCQ,Medium,Choose the correct description of data structure uses the LIFO principle.,Queue,Stack,Tree,Graph,B,B,B,B
+CS_MCQ_11,Computer Science,MCQ,Hard,Choose the correct description of scenario results in the worst-case time complexity of quicksort.,Random pivot selection,Balanced partition,Already sorted array with first element as pivot,Duplicate elements,C,C,C,C
+CS_MCQ_12,Computer Science,MCQ,Hard,Identify the correct statement related to condition is NOT required for deadlock to occur.,Mutual exclusion,Hold and wait,Preemption,Circular wait,C,C,C,C
+CS_MCQ_13,Computer Science,MCQ,Hard,What is the correct explanation for causes thrashing in an operating system?,High CPU utilization,Excessive paging,Large cache size,Low memory usage,B,B,B,B
+CS_MCQ_14,Computer Science,MCQ,Hard,Which of the following best describes layer of the OSI model handles encryption?,Transport,Network,Session,Presentation,D,D,D,D
+CS_MCQ_15,Computer Science,MCQ,Hard,Which option correctly represents is the primary disadvantage of linked lists compared to arrays?,Dynamic size,Sequential access,Fixed size,Efficient insertion,B,B,B,B
+CS_MCQ_16,Computer Science,MCQ,Hard,What is the correct explanation for algorithm is used to find the shortest path in a weighted graph with no negative weights?,DFS,BFS,Dijkstra’s algorithm,Bellman-Ford,C,C,C,C
+CS_MCQ_17,Computer Science,MCQ,Hard,Choose the correct description of cache mapping technique offers the least conflict misses.,Direct mapping,Set-associative mapping,Fully associative mapping,Block mapping,C,C,C,C
+CS_MCQ_18,Computer Science,MCQ,Hard,Identify the correct statement related to concept allows multiple threads to execute simultaneously.,Multitasking,Multiprocessing,Multithreading,Virtual memory,C,C,C,C
+CS_MCQ_19,Computer Science,MCQ,Hard,Choose the correct description of SQL command removes a table completely.,DELETE,REMOVE,TRUNCATE,DROP,D,D,D,D
+CS_MCQ_20,Computer Science,MCQ,Hard,Which of the following best describes problem is NP-complete?,Binary search,Sorting,Travelling Salesman Problem,Matrix multiplication,C,C,C,C
+CS_MCQ_21,Computer Science,MCQ,Medium,Which of the following best describes data structure is used in BFS traversal?,Stack,Queue,Heap,Set,B,B,B,B
+CS_MCQ_22,Computer Science,MCQ,Medium,Which of the following best describes protocol is used to send emails?,HTTP,FTP,SMTP,DNS,C,C,C,C
+CS_MCQ_23,Computer Science,MCQ,Medium,Identify the correct statement related to is the main goal of encryption.,Data compression,Data confidentiality,Data duplication,Data indexing,B,B,B,B
+CS_MCQ_24,Computer Science,MCQ,Hard,Which option correctly represents memory allocation strategy suffers most from external fragmentation?,Paging,Segmentation,Fixed partitioning,Virtual memory,B,B,B,B
+CS_MCQ_25,Computer Science,MCQ,Hard,What is the correct explanation for synchronization tool is used to avoid race conditions?,Cache,Semaphore,Compiler,Scheduler,B,B,B,B
+Math_MATH_E_01,Mathematics,MCQ,Easy,What is the correct explanation for is the derivative of x^2?,2x,x,x^2,1,A,A,A,A
+Math_MATH_E_02,Mathematics,MCQ,Easy,What is the correct explanation for is the integral of 1 with respect to x?,x + C,1,0,C,A,A,A,A
+Math_MATH_E_03,Mathematics,MCQ,Easy,Which option correctly represents is the value of sin(0)?,0,1,-1,Undefined,A,A,A,A
+Math_MATH_E_04,Mathematics,MCQ,Easy,Identify the correct statement related to is the determinant of a 2x2 identity matrix.,0,1,2,-1,B,B,B,B
+Math_MATH_E_05,Mathematics,MCQ,Easy,Which of the following best describes is the solution of x = 5?,5,0,-5,10,A,A,A,A
+Math_MATH_E_06,Mathematics,MCQ,Easy,What is the correct explanation for is the square root of 16?,2,4,8,-4,B,B,B,B
+Math_MATH_E_07,Mathematics,MCQ,Easy,What is the correct explanation for is the value of log₁₀(1)?,0,1,10,Undefined,A,A,A,A
+Math_MATH_E_08,Mathematics,MCQ,Easy,Identify the correct statement related to is the degree of the polynomial 3x³ + x.,1,2,3,4,C,C,C,C
+Math_MATH_E_09,Mathematics,MCQ,Easy,Identify the correct statement related to is cos(0).,0,1,-1,Undefined,B,B,B,B
+Math_MATH_E_10,Mathematics,MCQ,Easy,Identify the correct statement related to is the value of 7 × 0.,0,7,1,Undefined,A,A,A,A
+Math_MATH_E_11,Mathematics,MCQ,Easy,Identify the correct statement related to is the derivative of a constant.,0,1,Constant,Undefined,A,A,A,A
+Math_MATH_E_12,Mathematics,MCQ,Easy,Choose the correct description of is the value of π approximately.,2.14,3.14,4.13,1.34,B,B,B,B
+Math_MATH_E_13,Mathematics,MCQ,Easy,Choose the correct description of is the sum of angles in a triangle.,90°,180°,270°,360°,B,B,B,B
+Math_MATH_E_14,Mathematics,MCQ,Easy,Choose the correct description of is the inverse of addition.,Multiplication,Subtraction,Division,Exponent,B,B,B,B
+Math_MATH_E_15,Mathematics,MCQ,Easy,What is the correct explanation for is the value of e⁰?,0,1,e,Undefined,B,B,B,B
+Math_MATH_M_01,Mathematics,MCQ,Medium,Choose the correct description of is the derivative of sin(x).,cos(x),-cos(x),sin(x),-sin(x),A,A,A,A
+Math_MATH_M_02,Mathematics,MCQ,Medium,Identify the correct statement related to is the integral of x.,x²/2 + C,x + C,1,2x,A,A,A,A
+Math_MATH_M_03,Mathematics,MCQ,Medium,Which option correctly represents matrix has an inverse?,Singular,Zero,Identity,Rectangular,C,C,C,C
+Math_MATH_M_04,Mathematics,MCQ,Medium,Which of the following best describes is the rank of a 3x3 identity matrix?,1,2,3,0,C,C,C,C
+Math_MATH_M_05,Mathematics,MCQ,Medium,Which of the following best describes does eigenvalue represent?,Matrix size,Scalar factor,Determinant,Trace,B,B,B,B
+Math_MATH_M_06,Mathematics,MCQ,Medium,Which of the following best describes is lim(x→0) sin(x)/x?,0,1,∞,Undefined,B,B,B,B
+Math_MATH_M_07,Mathematics,MCQ,Medium,Identify the correct statement related to series converges.,Harmonic,Geometric (|r|<1),Arithmetic,Divergent,B,B,B,B
+Math_MATH_M_08,Mathematics,MCQ,Medium,Choose the correct description of is the solution of x² − 4 = 0.,±2,0,4,-2,A,A,A,A
+Math_MATH_M_09,Mathematics,MCQ,Medium,Which of the following best describes function is continuous everywhere?,1/x,tan(x),x²,log(x),C,C,C,C
+Math_MATH_M_10,Mathematics,MCQ,Medium,What is the correct explanation for is the determinant of a singular matrix?,1,-1,0,Undefined,C,C,C,C
+Math_MATH_M_11,Mathematics,MCQ,Medium,Which of the following best describes method solves linear equations?,Fourier,Gaussian elimination,Newton,Euler,B,B,B,B
+Math_MATH_M_12,Mathematics,MCQ,Medium,Which of the following best describes is the derivative of e^x?,e^x,x e^x,1,ln(x),A,A,A,A
+Math_MATH_M_13,Mathematics,MCQ,Medium,Identify the correct statement related to is the value of |−7|.,-7,7,0,1,B,B,B,B
+Math_MATH_M_14,Mathematics,MCQ,Medium,Choose the correct description of is the integral of cos(x).,sin(x),-sin(x),cos(x),-cos(x),A,A,A,A
+Math_MATH_M_15,Mathematics,MCQ,Medium,What is the correct explanation for is the domain of log(x)?,All real numbers,x>0,x<0,x≠0,B,B,B,B
+Math_MATH_M_16,Mathematics,MCQ,Medium,Choose the correct description of transform is used in signal processing.,Laplace,Fourier,Z-transform,All of these,D,D,D,D
+Math_MATH_M_17,Mathematics,MCQ,Medium,Which option correctly represents is the probability of a sure event?,0,0.5,1,Undefined,C,C,C,C
+Math_MATH_M_18,Mathematics,MCQ,Medium,"Choose the correct description of is the value of C(5,0).",0,1,5,10,B,B,B,B
+Math_MATH_M_19,Mathematics,MCQ,Medium,Which option correctly represents equation represents a circle?,x²+y²=r²,y=mx+c,xy=c,x²−y²=c,A,A,A,A
+Math_MATH_M_20,Mathematics,MCQ,Medium,What is the correct explanation for is the trace of identity matrix I₃?,1,2,3,0,C,C,C,C
+Math_MATH_H_01,Mathematics,MCQ,Hard,Choose the correct description of condition ensures convergence of Newton’s method.,Initial guess close,Continuity,Boundedness,Linearity,A,A,A,A
+Math_MATH_H_02,Mathematics,MCQ,Hard,What is the correct explanation for is the eigenvalue of identity matrix?,0,1,Depends,Undefined,B,B,B,B
+Math_MATH_H_03,Mathematics,MCQ,Hard,What is the correct explanation for PDE describes heat conduction?,Wave equation,Laplace equation,Heat equation,Poisson equation,C,C,C,C
+Math_MATH_H_04,Mathematics,MCQ,Hard,What is the correct explanation for is the Jacobian used for?,Integration change,Differentiation,Limits,Series,A,A,A,A
+Math_MATH_H_05,Mathematics,MCQ,Hard,Choose the correct description of space is complete.,Metric,Normed,Hilbert,Topological,C,C,C,C
+Math_MATH_H_06,Mathematics,MCQ,Hard,Which option correctly represents ensures uniform convergence?,Pointwise limit,Weierstrass M-test,Cauchy,Boundedness,B,B,B,B
+Math_MATH_H_07,Mathematics,MCQ,Hard,Which option correctly represents is the order of Runge–Kutta method?,1,2,4,Depends,C,C,C,C
+Math_MATH_H_08,Mathematics,MCQ,Hard,Which option correctly represents is the solution of y' = ky?,Ce^{kx},kx,k,x^k,A,A,A,A
+Math_MATH_H_09,Mathematics,MCQ,Hard,Which option correctly represents transform solves differential equations?,Fourier,Laplace,Z,All,D,D,D,D
+Math_MATH_H_10,Mathematics,MCQ,Hard,Identify the correct statement related to is the determinant of an orthogonal matrix.,0,1,±1,Undefined,C,C,C,C
+Math_MATH_H_11,Mathematics,MCQ,Hard,Identify the correct statement related to method finds roots of equations.,Euler,Newton-Raphson,Gauss,Fourier,B,B,B,B
+Math_MATH_H_12,Mathematics,MCQ,Hard,Identify the correct statement related to condition defines analyticity.,Differentiable once,Cauchy–Riemann,Continuous,Bounded,B,B,B,B
+Math_MATH_H_13,Mathematics,MCQ,Hard,Which option correctly represents integral evaluates area under curve?,Line,Surface,Definite,Improper,C,C,C,C
+Math_MATH_H_14,Mathematics,MCQ,Hard,Which of the following best describes theorem relates curl and circulation?,Gauss,Green,Stokes,Taylor,C,C,C,C
+Math_MATH_H_15,Mathematics,MCQ,Hard,Which of the following best describes space generalizes Euclidean space?,Vector,Metric,Hilbert,Affine,C,C,C,C
+Psych_PSY_E_01,Psychology,MCQ,Easy,Which of the following best describes is psychology the study of?,Behavior and mental processes,Only behavior,Only the brain,Emotions only,A,A,A,A
+Psych_PSY_E_02,Psychology,MCQ,Easy,Choose the correct description of Who is known as the father of psychoanalysis.,Skinner,Watson,Freud,Pavlov,C,C,C,C
+Psych_PSY_E_03,Psychology,MCQ,Easy,Identify the correct statement related to part of the brain controls balance.,Cerebrum,Cerebellum,Medulla,Hypothalamus,B,B,B,B
+Psych_PSY_E_04,Psychology,MCQ,Easy,What is the correct explanation for is the basic unit of the nervous system?,Neuron,Axon,Dendrite,Synapse,A,A,A,A
+Psych_PSY_E_05,Psychology,MCQ,Easy,Identify the correct statement related to hormone is associated with stress.,Insulin,Adrenaline,Melatonin,Estrogen,B,B,B,B
+Psych_PSY_E_06,Psychology,MCQ,Easy,Which of the following best describes type of memory lasts a few seconds?,Long-term,Sensory,Procedural,Semantic,B,B,B,B
+Psych_PSY_E_07,Psychology,MCQ,Easy,Identify the correct statement related to psychologist is associated with classical conditioning.,Skinner,Pavlov,Bandura,Maslow,B,B,B,B
+Psych_PSY_E_08,Psychology,MCQ,Easy,Which of the following best describes does IQ stand for?,Intelligence Quotient,Intelligence Question,Internal Quality,Intellectual Quantity,A,A,A,A
+Psych_PSY_E_09,Psychology,MCQ,Easy,What is the correct explanation for lobe is responsible for vision?,Frontal,Temporal,Parietal,Occipital,D,D,D,D
+Psych_PSY_E_10,Psychology,MCQ,Easy,Identify the correct statement related to is the sleep stage associated with dreaming.,NREM-1,NREM-2,REM,Delta,C,C,C,C
+Psych_PSY_E_11,Psychology,MCQ,Easy,What is the correct explanation for sense is related to the olfactory system?,Taste,Smell,Touch,Hearing,B,B,B,B
+Psych_PSY_E_12,Psychology,MCQ,Easy,What is the correct explanation for is motivation?,A reflex,A drive to act,A habit,A memory,B,B,B,B
+Psych_PSY_E_13,Psychology,MCQ,Easy,Identify the correct statement related to Who proposed the hierarchy of needs.,Freud,Maslow,Erikson,Piaget,B,B,B,B
+Psych_PSY_E_14,Psychology,MCQ,Easy,Choose the correct description of neurotransmitter is linked to pleasure.,Dopamine,Serotonin,GABA,Glutamate,A,A,A,A
+Psych_PSY_E_15,Psychology,MCQ,Easy,Identify the correct statement related to does EEG measure.,Blood flow,Brain waves,Hormones,Muscle movement,B,B,B,B
+Psych_PSY_M_01,Psychology,MCQ,Medium,What is the correct explanation for is operant conditioning?,Learning by association,Learning by consequences,Observational learning,Insight learning,B,B,B,B
+Psych_PSY_M_02,Psychology,MCQ,Medium,Which of the following best describes theory explains behavior through reinforcement?,Cognitive,Behavioral,Humanistic,Psychodynamic,B,B,B,B
+Psych_PSY_M_03,Psychology,MCQ,Medium,Identify the correct statement related to is the function of the hippocampus.,Emotion,Memory formation,Motor control,Speech,B,B,B,B
+Psych_PSY_M_04,Psychology,MCQ,Medium,What is the correct explanation for memory system stores facts and knowledge?,Episodic,Procedural,Semantic,Sensory,C,C,C,C
+Psych_PSY_M_05,Psychology,MCQ,Medium,Identify the correct statement related to does cognitive dissonance describe.,Memory loss,Mental conflict,Learning difficulty,Emotional disorder,B,B,B,B
+Psych_PSY_M_06,Psychology,MCQ,Medium,What is the correct explanation for test measures personality?,IQ test,Rorschach,Aptitude test,Achievement test,B,B,B,B
+Psych_PSY_M_07,Psychology,MCQ,Medium,Which of the following best describes is observational learning?,Trial and error,Learning by watching others,Learning by punishment,Learning by insight,B,B,B,B
+Psych_PSY_M_08,Psychology,MCQ,Medium,Choose the correct description of part of neuron transmits signals away.,Dendrite,Cell body,Axon,Synapse,C,C,C,C
+Psych_PSY_M_09,Psychology,MCQ,Medium,Which of the following best describes schedule produces highest response rate?,Fixed ratio,Variable ratio,Fixed interval,Variable interval,B,B,B,B
+Psych_PSY_M_10,Psychology,MCQ,Medium,What is the correct explanation for is perception?,Sensation only,Interpretation of sensory input,Memory recall,Motor response,B,B,B,B
+Psych_PSY_M_11,Psychology,MCQ,Medium,Which of the following best describes approach focuses on free will?,Behaviorism,Humanistic,Biological,Psychoanalytic,B,B,B,B
+Psych_PSY_M_12,Psychology,MCQ,Medium,Which of the following best describes is short-term memory capacity?,2±1,7±2,10±2,Unlimited,B,B,B,B
+Psych_PSY_M_13,Psychology,MCQ,Medium,Which option correctly represents disorder involves excessive anxiety?,Depression,Schizophrenia,Anxiety disorder,Bipolar disorder,C,C,C,C
+Psych_PSY_M_14,Psychology,MCQ,Medium,Identify the correct statement related to psychologist studied child development stages.,Freud,Piaget,Watson,Skinner,B,B,B,B
+Psych_PSY_M_15,Psychology,MCQ,Medium,What is the correct explanation for is intelligence?,Knowledge,Ability to learn and adapt,Memory,Creativity,B,B,B,B
+Psych_PSY_M_16,Psychology,MCQ,Medium,Identify the correct statement related to hormone regulates sleep.,Cortisol,Melatonin,Adrenaline,Oxytocin,B,B,B,B
+Psych_PSY_M_17,Psychology,MCQ,Medium,Identify the correct statement related to does placebo effect demonstrate.,Drug action,Expectation influence,Genetic effect,Learning,B,B,B,B
+Psych_PSY_M_18,Psychology,MCQ,Medium,Which option correctly represents memory improves with practice?,Episodic,Semantic,Procedural,Sensory,C,C,C,C
+Psych_PSY_M_19,Psychology,MCQ,Medium,Choose the correct description of lobe controls decision making.,Temporal,Parietal,Occipital,Frontal,D,D,D,D
+Psych_PSY_M_20,Psychology,MCQ,Medium,Which of the following best describes disorder involves hallucinations?,Anxiety,Depression,Schizophrenia,Phobia,C,C,C,C
+Psych_PSY_H_01,Psychology,MCQ,Hard,Which option correctly represents theory emphasizes unconscious conflicts?,Behavioral,Humanistic,Psychoanalytic,Cognitive,C,C,C,C
+Psych_PSY_H_02,Psychology,MCQ,Hard,Identify the correct statement related to is the main criticism of behaviorism.,Too subjective,Ignores mental processes,Not scientific,Too biological,B,B,B,B
+Psych_PSY_H_03,Psychology,MCQ,Hard,What is the correct explanation for concept explains learning without reinforcement?,Operant,Classical,Insight,Trial-and-error,C,C,C,C
+Psych_PSY_H_04,Psychology,MCQ,Hard,What is the correct explanation for does the Yerkes-Dodson law describe?,Memory curve,Arousal-performance relation,Learning stages,Motivation types,B,B,C,B
+Psych_PSY_H_05,Psychology,MCQ,Hard,Choose the correct description of method studies brain activity in real time.,EEG,CT scan,X-ray,PET,A,A,A,A
+Psych_PSY_H_06,Psychology,MCQ,Hard,Which of the following best describes bias affects decision-making under uncertainty?,Confirmation bias,Anchoring bias,Availability heuristic,All of these,D,D,D,D
+Psych_PSY_H_07,Psychology,MCQ,Hard,What is the correct explanation for is theory of mind?,Self-awareness,Understanding others’ mental states,Intelligence,Personality,B,A,B,D
+Psych_PSY_H_08,Psychology,MCQ,Hard,What is the correct explanation for disorder shows alternating mood states?,Depression,Schizophrenia,Bipolar disorder,Anxiety,C,C,C,C
+Psych_PSY_H_09,Psychology,MCQ,Hard,Choose the correct description of neurotransmitter deficiency is linked to depression.,Dopamine,Serotonin,Acetylcholine,GABA,B,B,B,B
+Psych_PSY_H_10,Psychology,MCQ,Hard,Which of the following best describes test best measures implicit attitudes?,IQ test,Implicit Association Test,Rorschach,MMPI,B,B,B,B
+Psych_PSY_H_11,Psychology,MCQ,Hard,Which of the following best describes model explains memory as levels of processing?,Atkinson-Shiffrin,Baddeley,Craik & Lockhart,Tulving,C,C,C,C
+Psych_PSY_H_12,Psychology,MCQ,Hard,Choose the correct description of does neuroplasticity refer to.,Brain damage,Brain’s ability to change,Fixed brain structure,Neuron death,B,B,B,B
+Psych_PSY_H_13,Psychology,MCQ,Hard,What is the correct explanation for concept explains conformity?,Obedience,Groupthink,Social facilitation,Deindividuation,B,B,B,B
+Psych_PSY_H_14,Psychology,MCQ,Hard,Choose the correct description of approach integrates biological and cognitive factors.,Behavioral,Biopsychological,Humanistic,Psychoanalytic,B,B,B,B
+Psych_PSY_H_15,Psychology,MCQ,Hard,Which option correctly represents factor most influences eyewitness memory errors?,Confidence,Leading questions,Intelligence,Age,B,B,B,B
+Eco_ECO_E_01,Economics,MCQ,Easy,Identify the correct statement related to is economics the study of.,Scarcity and choice,Money only,Business,Statistics,A,A,A,A
+Eco_ECO_E_02,Economics,MCQ,Easy,Which option correctly represents Who is known as the father of economics?,Keynes,Adam Smith,Marshall,Ricardo,B,B,B,B
+Eco_ECO_E_03,Economics,MCQ,Easy,Which of the following best describes does GDP stand for?,Gross Domestic Product,Global Development Product,General Domestic Profit,Gross Demand Price,A,A,A,A
+Eco_ECO_E_04,Economics,MCQ,Easy,What is the correct explanation for term refers to the satisfaction from consumption?,Utility,Profit,Revenue,Cost,A,A,A,A
+Eco_ECO_E_05,Economics,MCQ,Easy,Which option correctly represents market has only one seller?,Perfect competition,Monopoly,Oligopoly,Monopsony,B,B,B,B
+Eco_ECO_E_06,Economics,MCQ,Easy,Choose the correct description of does demand represent.,Willingness to buy,Ability to sell,Production level,Market price,A,A,A,A
+Eco_ECO_E_07,Economics,MCQ,Easy,Choose the correct description of is inflation.,Rise in prices,Rise in output,Fall in prices,Fall in income,A,A,A,B
+Eco_ECO_E_08,Economics,MCQ,Easy,Which of the following best describes factor of production earns wages?,Land,Labor,Capital,Entrepreneur,B,B,B,B
+Eco_ECO_E_09,Economics,MCQ,Easy,Which of the following best describes does CPI measure?,Production,Income,Cost of living,Profit,C,C,C,C
+Eco_ECO_E_10,Economics,MCQ,Easy,Which option correctly represents curve shows relationship between price and demand?,Supply curve,Demand curve,Cost curve,Revenue curve,B,B,B,C
+Eco_ECO_E_11,Economics,MCQ,Easy,Choose the correct description of is opportunity cost.,Accounting cost,Explicit cost,Next best alternative foregone,Total cost,C,C,C,C
+Eco_ECO_E_12,Economics,MCQ,Easy,Choose the correct description of type of goods are non-rival and non-excludable.,Private goods,Merit goods,Public goods,Inferior goods,C,C,C,C
+Eco_ECO_E_13,Economics,MCQ,Easy,Identify the correct statement related to is microeconomics concerned with.,Entire economy,Individual units,Government policy,International trade,B,B,B,B
+Eco_ECO_E_14,Economics,MCQ,Easy,What is the correct explanation for does elasticity measure?,Responsiveness,Profit,Cost,Supply,A,A,A,A
+Eco_ECO_E_15,Economics,MCQ,Easy,What is the correct explanation for is capital in economics?,Money,Machines and tools,Labor,Land,B,B,B,B
+Eco_ECO_M_01,Economics,MCQ,Medium,Which of the following best describes Law of demand states that:?,Price and demand move together,Inverse relation between price and demand,Demand constant,No relation,B,B,B,B
+Eco_ECO_M_02,Economics,MCQ,Medium,Identify the correct statement related to causes a rightward shift in demand curve.,Decrease in income,Increase in income,Increase in price,Decrease in population,B,B,B,B
+Eco_ECO_M_03,Economics,MCQ,Medium,What is the correct explanation for is price elasticity of demand?,Change in supply,Responsiveness of demand to price,Market equilibrium,Cost behavior,B,B,B,B
+Eco_ECO_M_04,Economics,MCQ,Medium,Which option correctly represents market structure has many sellers and differentiated products?,Perfect competition,Monopoly,Monopolistic competition,Oligopoly,C,C,C,C
+Eco_ECO_M_05,Economics,MCQ,Medium,Identify the correct statement related to is marginal cost.,Total cost,Average cost,Cost of producing one more unit,Fixed cost,C,C,C,C
+Eco_ECO_M_06,Economics,MCQ,Medium,Which of the following best describes policy is used to control inflation?,Fiscal policy,Monetary policy,Trade policy,Industrial policy,B,B,B,B
+Eco_ECO_M_07,Economics,MCQ,Medium,Identify the correct statement related to is equilibrium price.,Highest price,Lowest price,Price where demand equals supply,Government price,C,C,C,C
+Eco_ECO_M_08,Economics,MCQ,Medium,Which option correctly represents curve is U-shaped in the short run?,Demand,Supply,Average cost,Marginal revenue,C,C,C,C
+Eco_ECO_M_09,Economics,MCQ,Medium,Which of the following best describes does comparative advantage explain?,Absolute efficiency,Trade specialization,Production cost,Inflation,B,B,B,B
+Eco_ECO_M_10,Economics,MCQ,Medium,What is the correct explanation for tax is proportional to income?,Regressive,Progressive,Proportional,Indirect,C,C,C,C
+Eco_ECO_M_11,Economics,MCQ,Medium,Which of the following best describes is fiscal deficit?,Revenue > expenditure,Expenditure > revenue,Balanced budget,Foreign debt,B,B,B,B
+Eco_ECO_M_12,Economics,MCQ,Medium,Identify the correct statement related to does monopoly maximize.,Revenue,Output,Profit,Market share,C,C,C,C
+Eco_ECO_M_13,Economics,MCQ,Medium,Which of the following best describes curve shows combinations of goods?,Demand curve,Supply curve,Production possibility curve,Cost curve,C,C,C,C
+Eco_ECO_M_14,Economics,MCQ,Medium,What is the correct explanation for is meant by crowding out?,Private investment decreases due to government spending,Increase in savings,Decrease in taxes,Increase in exports,A,A,A,A
+Eco_ECO_M_15,Economics,MCQ,Medium,Which option correctly represents is nominal GDP?,GDP adjusted for inflation,GDP at current prices,GDP at base prices,Net GDP,B,B,A,A
+Eco_ECO_M_16,Economics,MCQ,Medium,Which option correctly represents factor causes inflation?,Increase in productivity,Decrease in money supply,Demand-pull,Technological progress,C,C,C,C
+Eco_ECO_M_17,Economics,MCQ,Medium,Identify the correct statement related to is money supply controlled by.,Government,Central bank,Commercial banks,Consumers,B,B,B,B
+Eco_ECO_M_18,Economics,MCQ,Medium,Identify the correct statement related to cost does not vary with output.,Variable cost,Marginal cost,Fixed cost,Average cost,C,C,C,C
+Eco_ECO_M_19,Economics,MCQ,Medium,Which of the following best describes does balance of payments record?,Domestic trade,International transactions,Budget,Inflation,B,B,C,C
+Eco_ECO_M_20,Economics,MCQ,Medium,What is the correct explanation for type of unemployment is seasonal?,Cyclical,Structural,Seasonal,Frictional,C,C,C,C
+Eco_ECO_H_01,Economics,MCQ,Hard,Choose the correct description of condition ensures consumer equilibrium.,MUx = MUy,MUx/Px = MUy/Py,Px = Py,Income = expenditure,B,B,B,B
+Eco_ECO_H_02,Economics,MCQ,Hard,Which option correctly represents happens to demand if income increases for inferior goods?,Increases,Decreases,Remains same,Becomes zero,B,B,B,B
+Eco_ECO_H_03,Economics,MCQ,Hard,Which of the following best describes curve is downward sloping due to diminishing marginal returns?,Supply,Demand,Cost,Revenue,A,A,B,A
+Eco_ECO_H_04,Economics,MCQ,Hard,Which of the following best describes does IS-LM model analyze?,Price determination,Goods and money market equilibrium,Inflation,Trade,B,B,B,B
+Eco_ECO_H_05,Economics,MCQ,Hard,Choose the correct description of tax causes deadweight loss.,Lump-sum tax,Indirect tax,Proportional tax,,B,B,B,B
+Eco_ECO_H_06,Economics,MCQ,Hard,Identify the correct statement related to is marginal propensity to consume (MPC).,ΔC/ΔY,ΔY/ΔC,C/Y,Y/C,A,A,A,A
+Eco_ECO_H_07,Economics,MCQ,Hard,Choose the correct description of market structure has kinked demand curve.,Perfect competition,Monopoly,Oligopoly,Monopolistic competition,C,C,C,C
+Eco_ECO_H_08,Economics,MCQ,Hard,Which option correctly represents does Phillips curve show?,Inflation-output relation,Inflation-unemployment tradeoff,Growth-unemployment,Interest-inflation,B,B,B,B
+Eco_ECO_H_09,Economics,MCQ,Hard,Which of the following best describes factor determines price elasticity of demand?,Income,Availability of substitutes,Cost,Profit,B,B,A,A
+Eco_ECO_H_10,Economics,MCQ,Hard,Which option correctly represents is Giffen good?,Luxury good,Inferior good with upward sloping demand,Normal good,Public good,B,A,B,B
+Eco_ECO_H_11,Economics,MCQ,Hard,Which option correctly represents policy tool is quantitative?,Repo rate,Open market operations,Moral suasion,Selective credit control,B,B,A,C
+Eco_ECO_H_12,Economics,MCQ,Hard,Choose the correct description of is real GDP.,GDP at current prices,GDP adjusted for inflation,GDP excluding exports,GDP excluding imports,B,B,B,B
+Eco_ECO_H_13,Economics,MCQ,Hard,Choose the correct description of cost curve intersects ATC at its minimum.,AFC,AVC,MC,TC,C,B,B,C
+Eco_ECO_H_14,Economics,MCQ,Hard,Identify the correct statement related to does Nash equilibrium represent.,Social optimum,Dominant strategy outcome,Mutual best response,Maximum profit,C,C,C,C
+Eco_ECO_H_15,Economics,MCQ,Hard,Which option correctly represents concept explains diminishing returns?,Law of supply,Law of demand,Law of diminishing marginal returns,Law of increasing cost,C,C,C,C
