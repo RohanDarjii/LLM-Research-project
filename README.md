@@ -43,14 +43,21 @@ pip install pandas numpy matplotlib seaborn scipy openai google-generativeai gro
 ```
 ---
 ### ✅  3. Baseline Evaluation
-- Run : RQ123.ipynb**
+- Run : RQ123.ipynb
 ✔ Queries all models using standard prompts**
-✔ Stores responses:**
+✔ Stores responses:
 -gpt_response
 -gemini_response
 -groq_response
 
-✔ Computes:**
+✔ Computes:
 -Accuracy
 -Wrong answers
 -Error metrics
+
+---
+### ✅  3. Prompt-Refined Evaluation
+- Run : alterprompt.ipynb
+✔ Uses structured prompts
+✔ Re-evaluates all models
+✔ Enables before vs after comparison
