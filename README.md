@@ -5,7 +5,8 @@
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
 ---
-
+Github Repo:
+https://github.com/RohanDarjii/LLM-Research-project
 ## 🔍 Project Overview
 
 This project evaluates the performance of multiple Large Language Models (LLMs) — **ChatGPT, Gemini, and Groq** — on **discipline-specific exam questions** across:
